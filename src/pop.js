@@ -1,5 +1,5 @@
 import React from 'react'
-import Popover from 'reactable-popover'
+import Popover from 'reactable-popover';
 
 // 花色0:方块
 // 花色1:梅花
